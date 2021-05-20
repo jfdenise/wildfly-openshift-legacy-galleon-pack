@@ -79,7 +79,7 @@
                                     </includedConfigs>
                                 </feature-pack>
                                 <feature-pack>
-                                    <location>org.wildfly:wildfly-openshift-legacy-galleon-pack:23.0.0.Final</location>
+                                    <location>org.jfdenise.demo:wildfly-openshift-legacy-galleon-pack:1.0.0.Alpha1-SNAPSHOT</location>
                                     <inheritConfigs>false</inheritConfigs>
                                     <inheritPackages>false</inheritPackages>
                                     <includedPackages>
