@@ -21,3 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/target/
+/examples/jaxws/target
+/examples/default-configs/fat-s2i-server/target/
+/examples/default-configs/slim-s2i-server/target/
